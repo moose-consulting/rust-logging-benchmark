@@ -1,5 +1,5 @@
 [package]
-name = "tracing-benchmark"
+name = "rust-logging-benchmark"
 version = "0.1.0"
 authors = ["kflansburg <kevin.flansburg@gmail.com>"]
 edition = "2018"
